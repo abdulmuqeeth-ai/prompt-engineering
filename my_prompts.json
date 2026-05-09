@@ -1,0 +1,14 @@
+{
+  "coding_prompts": [
+    "Write Python code for RAG system",
+    "Explain this code: [paste code]"
+  ],
+  "analysis_prompts": [
+    "Summarize this document",
+    "Find key insights from: [text]"
+  ],
+  "creative_prompts": [
+    "Write a story about AI",
+    "Generate project ideas for hackathon"
+  ]
+}
